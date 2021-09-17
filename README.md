@@ -37,6 +37,8 @@ Collection of resources published by [ReBIT](https://rebit.org.in) for Account A
 
 - [Rahasya](https://github.com/Sahamati/rahasya) - an ECC curve (curve25519) with Diffie-Hellman Key exchange implementation maintained by [Sahamati](https://sahamati.org.in).
 - [Security Standards](https://sahamati.gitbook.io/security-standards)
+- [Java JWS Signature and Verification](https://github.com/finvu/finvu-rebit-aa-jws)
+- [Python JWS Signature and Verification](https://github.com/finvu/python-jose)
 
 
 ## Contribute
