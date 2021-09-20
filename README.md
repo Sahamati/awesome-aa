@@ -5,8 +5,26 @@
 
 ## Contents
 
+- [AA Redirection](#aa-redirection)
+- [AA Specification Standards](#aa-specification-standards)
+- [Certification](#certification)
 - [ReBIT Resources](#rebit-resources)
-- [Sahamati Resources](#sahamati-resources)
+- [Security](#security)
+
+
+## AA Redirection
+
+- [AA Redirection Guidelines](https://sahamati.gitbook.io/aa-redirection-guidelines) - maintained by [Sahamati](https://github.com/sahamati).
+
+
+## AA Specification Standards
+
+- [Account Aggregator Standards: API Spec & FI Schemas](https://github.com/sahamati/account-aggregator-standards)
+
+
+## Certification
+
+- [Sahamati Certification Framework](https://sahamati.gitbook.io/certification-framework) - Certification framework and guidelines maintained by [Sahamati](https://github.com/sahamati).
 
 
 ## ReBIT Resources
@@ -19,26 +37,25 @@ Collection of resources published by [ReBIT](https://rebit.org.in) for Account A
 - [Official Website](https://api.rebit.org.in/)
 
 
-## Sahamati Resources
+## Security
 
-### AA Redirection
+### Java
 
-- [AA Redirection Standards](https://sahamati.gitbook.io/aa-redirection-standards)
-
-### AA Specification Standards
-
-- [Account Aggregator Standards: API Spec & FI Schemas](https://github.com/sahamati/account-aggregator-standards)
-
-### Certification
-
-- [Sahamati Certification Framework Standards](https://sahamati.gitbook.io/certification-standards)
-
-### Security
-
+- [JWS Signature and Verification](https://github.com/finvu/finvu-rebit-aa-jws)
 - [Rahasya](https://github.com/Sahamati/rahasya) - an ECC curve (curve25519) with Diffie-Hellman Key exchange implementation maintained by [Sahamati](https://sahamati.org.in).
-- [Security Standards](https://sahamati.gitbook.io/security-standards)
-- [Java JWS Signature and Verification](https://github.com/finvu/finvu-rebit-aa-jws)
-- [Python JWS Signature and Verification](https://github.com/finvu/python-jose)
+
+### Python
+
+- [JWS Signature and Verification](https://github.com/finvu/python-jose)
+
+### Resources
+
+- [Security Standards](https://sahamati.gitbook.io/security-standards) - maintained by [Sahamati](https://github.com/sahamati). 
+
+
+<!-- ## Misc -->
+
+<!-- Uncomment and add resources for Miscellaneous category -->
 
 
 ## Contribute
